@@ -4,7 +4,7 @@ By using Memento, you agree to these terms.
 
 ## The App
 
-Memento is a free progress tracking app for iOS. It visualizes the passage of time through life, year, and day progress bars, and lets you create custom goals with target dates and reminders.
+Memento is a progress tracking app for iOS. It visualizes the passage of time through life, year, and day progress bars, and lets you create custom goals with target dates and reminders.
 
 ## Your Data
 

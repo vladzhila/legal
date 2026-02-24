@@ -8,4 +8,4 @@ The app may request permission to send local notifications for goal reminders. T
 
 ## Contact
 
-If you have any questions or suggestions regarding this privacy policy, do not hesitate to contact me at vladzhila@gmail.com.
+If you have any questions or suggestions regarding this privacy policy, do not hesitate to contact me at vlzhila@gmail.com.

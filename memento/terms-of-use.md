@@ -8,7 +8,7 @@ Memento is a progress tracking app for iOS. It visualizes the passage of time th
 
 ## Your Data
 
-All data — including goals, settings, and personal inputs like birth year — is stored locally on your device. You are responsible for your own data — if you delete the app, your data will be lost.
+All data — including goals, settings, and personal inputs like birth year — is stored locally on your device. You can back up your data by exporting it as a file, and restore it by importing a backup. Importing replaces all existing goals and settings. You are responsible for your own data — if you delete the app without a backup, your data will be lost.
 
 ## Acceptable Use
 

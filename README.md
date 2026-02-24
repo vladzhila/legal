@@ -1,5 +1,13 @@
-# Privacy Policies
+# Legal
 
-Privacy policies for my apps.
+Privacy policies and terms of use for my apps.
 
-- [Memento](memento.md)
+## Privacy Policy
+
+- [HabitKit](privacy-policy/habitkit.md)
+- [Memento](privacy-policy/memento.md)
+
+## Terms of Use
+
+- [HabitKit](terms-of-use/habitkit.md)
+- [Memento](terms-of-use/memento.md)
